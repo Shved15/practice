@@ -1,0 +1,8 @@
+db.sqlite3
+db_practice_1.sqlite3
+wiki_generic
+#.ipynb_checkpoints
+.env
+.idea
+*.ipynb
+__pycache__/
